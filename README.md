@@ -1,7 +1,7 @@
 # Bet On It Scene
 This is a game adaptation of the Bet On It musical scene from High School Musical 2. The player has to use certain items/tasks to progress through the song.
 # Reference
-
+https://youtu.be/k-t4vqd534Y
 # Walkthrough
 1. The player interacts with the flyer, then walks to the golf field.
 2. Player interacts with NPCs and obtains grass to continue to the rocks.
